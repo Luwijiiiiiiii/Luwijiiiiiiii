@@ -1,4 +1,4 @@
-<p align="center">👋 Hi, I’m @Luwijiiiiiiii<br>👀 I’m interested in Playing Video Games and Watching Anime<br>🌱 I’m currently learning C++<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me : luigiagas32@gmail.com<br>⚡ Fun fact: I love to code even though Im not good at it</p>
+<p align="center">👋 Hi, I’m @Luwijiiiiiiii<br>👀 I’m interested in Playing Video Games and Watching Anime<br>🌱 I’m currently learning C++ and Java<br>💞️ I am looking forward to create games<br>⚡ Fun fact: I love to code even though Im not good at it</p>
 
 ###
 
@@ -38,16 +38,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luwijiiiiiiii/Luwijiiiiiiii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luwijiiiiiiii/Luwijiiiiiiii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luwijiiiiiiii/Luwijiiiiiiii/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://discord.com/burritotoastadas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -63,5 +53,4 @@
   </a>
 </div>
 
-###
 ###
